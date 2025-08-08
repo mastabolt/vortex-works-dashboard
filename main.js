@@ -1,2 +1,1 @@
-import { BuilderComponent, builder } from '@builder.io/react';
-console.log('Builder connected');
+// JS logic for Zoho API integration can go here
